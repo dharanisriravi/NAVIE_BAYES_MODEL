@@ -29,9 +29,9 @@ cd language-detector
 2. Create a virtual environment and install dependencies
 
 python -m venv venv
-# On macOS / Linux
+### On macOS / Linux
 source venv/bin/activate
-# On Windows
+### On Windows
 venv\Scripts\activate
 pip install -r requirements.txt
 
