@@ -5,15 +5,15 @@ A simple web application that detects the language of a given sentence using a N
 The app is built with Python, Flask, and scikit-learn, and features a clean, responsive UI.
 
 ## Features
-Manual dataset with multilingual examples.
+- Manual dataset with multilingual examples.
 
-Naive Bayes classifier for text classification.
+- Naive Bayes classifier for text classification.
 
-Flask web interface for easy interaction.
+- Flask web interface for easy interaction.
 
-Clean and modern HTML/CSS design.
+- Clean and modern HTML/CSS design.
 
-Fully customizable — add more languages and examples for better accuracy.
+- Fully customizable — add more languages and examples for better accuracy.
 
 ## Project Structure
 
@@ -88,21 +88,21 @@ The trained model predicts its language in real time.
 
 ## Customization
 
-Add more languages and examples in manual_data.csv.
+- Add more languages and examples in manual_data.csv.
 
-Adjust model type (e.g., SVM, Logistic Regression) in train_model.py.
+- Adjust model type (e.g., SVM, Logistic Regression) in train_model.py.
 
-Improve UI design in static/style.css.
+- Improve UI design in static/style.css.
 
 ## Requirements
 
-Python 3.8+
+- Python 3.8+
 
-Flask
+- Flask
 
-pandas
+- pandas
 
-scikit-learn
+- scikit-learn
 
 ## Install with:
 
@@ -116,6 +116,3 @@ pip install -r requirements.txt
 
 ![alt text](image-1.png)
 
-## AUTHOR
- 
- R.DHARANI SRI
